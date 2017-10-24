@@ -1,0 +1,12 @@
+1. Chen, Jones, and Viola Davis are all strings, their meanings are probably first, last and full names and 42 is an integer.
+2. Databases are used when an application is creating and storing data for the individual. A text file in contrast is directly changed by the individual. 
+3. With a programing language you tell the program how to do things and with SQL you just say what you want it to do.
+4. On a high level a database is a table containing information that is stored under different lables
+5. Table: contains a group of related data. Column: defines what the data repesesnts. Row: makes a complete conceptual unit. Value: Infromation stored in a particular row and column
+6. String, Integer, Object
+7. 5/1/2016 1500.00 5/10/2016 37.00 5/15/2016 124.93 5/23/2016 	54.72
+   1500.00, 124.93
+   5/15/2016 Mega Foods 124.93 Groceries
+8. datad@comcast.net 2008-01-20
+   1
+   4 Brandy Boolean bboolean@nasa.gov	1999-10-15
